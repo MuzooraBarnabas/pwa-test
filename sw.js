@@ -20,7 +20,7 @@
 
 
 const cacheName = 'blogCache';
-const offlineUrl = 'offline.php';
+const offlineUrl = 'offline.html';
 
 /**
  * The event listener for the service worker installation
